@@ -1,6 +1,6 @@
 # Personal Webpage
 
-This is the git repository to my personal webpage (nicoleludwig.github.io).
+This is the git repository to my personal webpage ([nicoleludwig.github.io](https://nicoleludwig.github.io)).
 
 I've used the Strata by HTML5 UP template for the design of this page.
 For more details, see the ReadMe from the template below:
